@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Next.js, TypeScript, C++**
 - 👨‍💻 All my projects are available at [https://github.com/satya13m](https://github.com/satya13m)
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **satyajeet mohanty1342@email.com**
 
 ---
 
